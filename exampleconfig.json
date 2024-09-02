@@ -1,0 +1,22 @@
+{
+    "BOT_OPTIONS": {
+        "DEVELOPER": "",
+        "DEV_ID": "",
+        "FORMER_DEV": "",
+        "FORMER_DEV_ID": "",
+        "CLIENT_ID": "",
+        "BOT_VERSION": "",
+        "EMBED_COLOR": "",
+        "SUPPORT_SERVER": ""
+    },
+    "ACTIVITY_OPTIONS": {
+        "STATUS": "",
+        "ACTIVITY": ""
+    },
+    "FOOTERS": {
+        "WEEBSH": "Image API Powered by weeb.sh",
+        "PURRBOT": "Image API Powered by purrbot.site",
+        "NEKOBOT": "Image API Powered by nekobot.site",
+        "NEKOSPRO": "Image API Powered by nekos.pro"
+    }
+}
